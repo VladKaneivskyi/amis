@@ -3,7 +3,7 @@ Create function to sum float number
 """
 
 from example.Tereshchenko_Igor.workshop1.source.inputpkg.inputter import inputFloat
-from example.Tereshchenko_Igor.workshop1.source.inputpkg.inputter import inputInt
+
 
 def sum(a, b):
     """
