@@ -56,3 +56,4 @@ if __name__ == "__main__":
     print(sum(a,b))
     print("Hello world")
     print("Kyky mraz")
+    print("Kyky mraz")
