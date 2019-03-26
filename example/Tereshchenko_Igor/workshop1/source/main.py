@@ -54,3 +54,4 @@ if __name__ == "__main__":
     a = inputFloat("Enter float: ")
     b = inputFloat("Enter float: ")
     print(sum(a,b))
+    print("Hello world")

@@ -33,3 +33,4 @@ def inputFloat(prompt):
     # TODO examples and exceptions
 
     return  float(input(prompt))
+print("Hello world")
